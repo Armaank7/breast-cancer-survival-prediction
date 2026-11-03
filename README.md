@@ -105,4 +105,4 @@ Every split and model uses a fixed `random_state`, so running the notebooks agai
 | `data/README.md` | Where the data comes from and its columns |
 | `images/` | Charts used in this README |
 
-**Armaan Khan** | [LinkedIn](https://www.linkedin.com/in/armaan-khan-6a6447189)
+**Armaan Khan** | [LinkedIn](https://www.linkedin.com/in/armaan-khan-3k172)
